@@ -1,6 +1,6 @@
 # MovieBookingApi
 
-**MovieBookingApi** is a RESTful API for a movie booking system. This project is built with **ASP.NET Core Web API** and provides backend functionality for the MovieBookingWeb application.
+**MovieBookingApi** is a RESTful API for a movie booking system. This project is built with ASP.NET Core Web API and provides backend functionality for the MovieBookingWeb application.
 
 ## Features
 - User Authentication: Registration and login
@@ -15,5 +15,3 @@
 - Database: PostgreSQL with Entity Framework Core
 - API Architecture: REST
 - Version Control: Git / GitHub
-
-
